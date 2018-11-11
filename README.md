@@ -1,3 +1,3 @@
 <h1> Two_Way_Anova </h1>
 Analysis of variance on plant growth study based on dry wieghts on different treatement using two way Anova
-![Alt text](scatter_plot.png?raw=true "Interaction Plot")
+![alt text](scatter_plot.png?raw=true "Interaction Plot")
